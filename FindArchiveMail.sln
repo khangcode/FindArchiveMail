@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindArchiveMail", "FindArchiveMail\FindArchiveMail.csproj", "{92C9655E-0E5D-430D-B874-E8A037CBADFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C9655E-0E5D-430D-B874-E8A037CBADFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C9655E-0E5D-430D-B874-E8A037CBADFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C9655E-0E5D-430D-B874-E8A037CBADFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C9655E-0E5D-430D-B874-E8A037CBADFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7BDF60-B195-40C7-AA17-831E609D7A32}
+	EndGlobalSection
+EndGlobal
